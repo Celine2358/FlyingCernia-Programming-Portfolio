@@ -1,5 +1,5 @@
 # Flying Cernia — Core Gameplay Code
-![Spinning Wheel Example](Assets/Flying Cernia 플레이 영상.gif)
+![Spinning Wheel Example](Source/Assets/Flying Cernia 플레이 영상.gif)
 Unity로 개발 중인 2D 횡스크롤 비행 액션 게임 **Flying Cernia**의 핵심 게임플레이 코드 모음입니다.
 
 이 저장소는 전체 Unity 프로젝트나 플레이 가능한 빌드가 아니라, 제가 구현한 시스템의 구조와 문제 해결 방식을 보여주기 위해 선별한 **프로그래밍 포트폴리오용 소스 코드**입니다. 아트·사운드·씬·프리팹·서드파티 패키지는 포함하지 않습니다.
